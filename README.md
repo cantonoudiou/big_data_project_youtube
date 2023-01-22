@@ -9,7 +9,8 @@ In this work I will perform basic Data Processing using Pyspark and Data Streami
 
 **1st Notebook:**
  - Load Data from Firestore database
- - Explore the data
+    * Explore the data
+    * Queries
  - Data processing using Pyspark
     * Load data from disc
     * MapReduce
